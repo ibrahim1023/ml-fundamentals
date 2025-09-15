@@ -16,7 +16,7 @@ The goal: strengthen ML foundations by seeing how math directly powers real mode
 3. Plotted Cost vs Iterations to show convergence
 4. Built a simple predictor for housing prices
 
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ibrahim1023/ml-fundamentals/blob/main/Linear_Regression_GD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibrahim1023/ml-fundamentals/blob/main/Linear_Regression_GD.ipynb)
   
 ## 🧠 Learning Method
 Each project follows the same structure:
