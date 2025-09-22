@@ -17,6 +17,15 @@ The goal: strengthen ML foundations by seeing how math directly powers real mode
 4. Built a simple predictor for housing prices
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibrahim1023/ml-fundamentals/blob/main/Linear_Regression_GD.ipynb)
+
+### **Logistic Regression — Binary Classification Example**
+1. Implemented sigmoid function
+2. Derived and coded cross-entropy loss + gradient descent
+3. Visualized loss curve and decision boundary
+4. Compared with scikit-learn’s LogisticRegression
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibrahim1023/ml-fundamentals/blob/main/Logistic_Regression_GD.ipynb)
+
   
 ## 🧠 Learning Method
 Each project follows the same structure:
@@ -26,9 +35,10 @@ Each project follows the same structure:
 3. Visualization – graphs/plots to show error minimization
 4. ML Intuition – how this improves predictions
 
-## 📖 Upcoming Topics
+## 📖 Topics
 
-- Logistic Regression + Gradient Descent
+- ✅ Linear Regression
+- ✅ Logistic Regression
 - Regularization (L1 / L2)
 - Softmax Regression
 - Neural Networks (Backprop basics)
